@@ -12,3 +12,6 @@ The main aim of this project is to predict the car price based on year of purcha
   3. Installing the required libraries
   4. Using jupyter notebook to import the installed libraries, load the data set, explore the data
   5. Cleaning the data and performing one hot encoding on categorical features
+![Exploring_data](https://github.com/msna121/car_price_prediction/blob/master/images/Explore.JPG)
+![Missing_data](https://github.com/msna121/car_price_prediction/blob/master/images/missing_values.JPG)
+![One_hot_encoding](https://github.com/msna121/car_price_prediction/blob/master/images/one_hot_encoding.JPG)
