@@ -52,3 +52,6 @@ The main aim of this project is to predict the car price based on year of purcha
 ### API creation and deployment:
   1. Flask is used to create the API
   2. The app.py is deployed on heroku platform [App_link](https://carpricepredictionmsna.herokuapp.com/)
+
+### Credits:
+@Krish_Naik
